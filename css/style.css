@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
+
 .cabecalho{
     display: flex;
     justify-content: space-between;
@@ -38,4 +39,12 @@
 .cabecalho a:hover{
     color: black;
     background-color: #fff;
+}
+
+body{
+    font-size: 10px;
+}
+
+.tit-foto{
+    font-size: 2em;
 }
